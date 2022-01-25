@@ -17,7 +17,7 @@ const apiRequest = async (url) => {
   // API Parameters
   const endpoint =
     'https://pagespeedonline.googleapis.com/pagespeedonline/v5/runPagespeed'; // Endpoint
-  const key = 'AIzaSyAWohEgv356YTBwxnNRj15xDJF4lTeMBPU'; // API Key (https://developers.google.com/speed/docs/insights/v5/get-started)
+  const key = ''; // API Key (https://developers.google.com/speed/docs/insights/v5/get-started)
   const device = 'mobile'; // Test viewport. 'desktop' also available
 
   const response = await axios(
