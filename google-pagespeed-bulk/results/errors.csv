@@ -1,0 +1,2 @@
+"url","reason"
+"https://www.healthshots.com/brand-posts/","Lighthouse returned error: ERRORED_DOCUMENT_REQUEST. Lighthouse was unable to reliably load the page you requested. Make sure you are testing the correct URL and that the server is properly responding to all requests. (Status code: 404)"
